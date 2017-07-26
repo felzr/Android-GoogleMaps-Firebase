@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "740284725117",
+    "firebase_url": "https://mapa-878f2.firebaseio.com",
+    "project_id": "mapa-878f2",
+    "storage_bucket": "mapa-878f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740284725117:android:ef475acdbbb1e191",
+        "android_client_info": {
+          "package_name": "com.example.felzr.mapa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740284725117-j3qipqt4lghbabskv8ajbvdmg6cuavjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.felzr.mapa",
+            "certificate_hash": "edeb40690f8120d6925209101a83d3c241c736d8"
+          }
+        },
+        {
+          "client_id": "740284725117-41ck9i8loi3tn4u0pcplts5ocrfbvc67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZMYCP_9sDmuGdh1BrpzaVq0_skVvk5c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740284725117-41ck9i8loi3tn4u0pcplts5ocrfbvc67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
